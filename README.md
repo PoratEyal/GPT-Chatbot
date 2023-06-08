@@ -12,6 +12,7 @@ To use the GPT Chatbot web application, follow these steps:
 To configure the chatbot, you need to set up an OpenAI GPT API access token. Follow these steps:
 
 1. Sign up for an account on the OpenAI website and obtain an API access token.
-2. In the script.js file, replace the YOUR_API_ACCESS_TOKEN placeholder with your actual API access token : const apiToken = 'YOUR_API_ACCESS_TOKEN';
+2. In the script.js file, replace the YOUR_API_ACCESS_TOKEN placeholder with your actual API access token: 
+const apiToken = 'YOUR_API_ACCESS_TOKEN';
 
 
