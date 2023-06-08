@@ -1,5 +1,5 @@
 # GPT-Chatbot-API
-This is a HTML that implements a chatbot powered by the OpenAI GPT API. It allows users to have interactive conversations with an AI-based chatbot right in their web browser.
+This is a Java-Script that implements a chatbot powered by the OpenAI GPT API. It allows users to have interactive conversations with an AI-based chatbot right in their web browser.
 # Usage
 To use the GPT Chatbot web application, follow these steps:
 
