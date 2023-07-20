@@ -13,7 +13,7 @@ To configure the chatbot, you need to set up an OpenAI GPT API access token. Fol
 
 1. Sign up for an account on the OpenAI website and obtain an API access token.
 2. In the script.js file, replace the YOUR_API_ACCESS_TOKEN placeholder with your actual API access token: 
-const apiToken = 'YOUR_API_ACCESS_TOKEN';
+const API_KEY = 'your API key'
 
 
 <img width="1231" alt="Screenshot 2023-07-20 145744" src="https://github.com/PoratEyal/GPT-Chatbot/assets/134833213/842564d3-d505-452d-877a-6a816ea21f49">
