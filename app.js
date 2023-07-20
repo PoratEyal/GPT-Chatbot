@@ -1,4 +1,4 @@
-const API_KEY = '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'
+const API_KEY = 'your API key'
 const clickBtn = document.querySelector("#clickBtn");
 const answerDiv = document.querySelector("#answer-div"); 
 const inputElement = document.querySelector("input");
